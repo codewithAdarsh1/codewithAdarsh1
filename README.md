@@ -21,7 +21,7 @@
 
 ## About me
 
-I'm a full-stack developer from **Biratnagar, Nepal** obsessed with building things that matter at a global scale. I build AI-powered web tools, ship npm packages, create cinematic web experiences using **Spline 3D + React**, and explore the bleeding edge of modern technology.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&width=700&lines=Full-stack+dev+from+Biratnagar%2C+Nepal;Building+AI+tools+that+ship+worldwide;React+%2B+Next.js+%2B+TypeScript+%2B+Node.js;npm+author+%7C+Spline+3D+%7C+open+source;I+don't+just+build+for+Nepal+—+I+build+for+the+world)](https://git.io/typing-svg)
 
 > *"I don't just build for Nepal — I build for the world."*
 
