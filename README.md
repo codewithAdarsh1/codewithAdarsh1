@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-adarsh44532-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh44532@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Adarsh_Chaudhary-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089393133668)
 [![Dev.to](https://img.shields.io/badge/Dev.to-codewithadarsh-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/codewithadarsh)
-[![Hashnode](https://img.shields.io/badge/Hashnode-codewithadarsh-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@codewithadarsh)
+[![Hashnode](https://img.shields.io/badge/Hashnode-codewithadarsh-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dev.to/adarsh_chaudhary_02df358b)
 
 
 
