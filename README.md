@@ -134,3 +134,8 @@ Open to **collaborations · freelance · open source contributions**
 
 
 
+## Contribution activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithAdarsh1/codewithAdarsh1/output/github-snake.svg" alt="github-snake" />
+</p>
